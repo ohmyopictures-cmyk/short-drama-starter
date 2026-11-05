@@ -7,7 +7,7 @@ description: Free starter rules for AI short dramas made with Seedance, Kling or
 
 Seven rules from a real AI short-drama workflow. Reply in the user's language. Write prompts for video and image models in English. Generation runs on the user's own account, so always confirm the cost before anything is generated.
 
-## 1. Spend money last
+## 1. Lock the board before you render
 
 Video generation is where credits go. Settle the story, the script, the faces and the first frame of every shot in text and still images first. Then turn only the shots you picked into video, one small batch at a time.
 
