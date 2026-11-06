@@ -1,12 +1,14 @@
 <p align="center"><sub><b>SHORT DRAMA STARTER</b> · a free skill for YouTube short-drama beginners</sub></p>
 
-<h1 align="center">Make your first short drama</h1>
+<h1 align="center">Make your first AI short drama</h1>
 
-<p align="center"><b>Even if you've never made a video.</b> Seven beginner rules your AI assistant applies for you, from first idea to first shot.</p>
+<p align="center"><a href=".claude/skills/short-drama-starter/SKILL.md"><img src="https://img.shields.io/badge/Claude_Code-skill-D97757" alt="Claude Code skill"></a> <a href=".agents/skills/short-drama-starter/SKILL.md"><img src="https://img.shields.io/badge/Codex-skill-111827" alt="Codex skill"></a> <a href="LICENSE.txt"><img src="https://img.shields.io/badge/license-free_for_personal_use-6B4FD8" alt="License: free for personal use"></a></p>
 
-<p align="center"><img src="media/hero-flow.jpg" width="100%" alt="Five steps: idea, character sheet, location sheet, 2×2 storyboard, finished shot. Frames from Quantum Eden, our AI short film. AI-generated."></p>
+<p align="center"><b>Even if you've never made a video.</b> Seven beginner rules Claude Code or Codex applies for you, from first idea to the first shot of a 60-second AI short drama.</p>
 
-<p align="center">Free · Works in Claude Code &amp; Codex · No film experience needed · Asks before any paid generation</p>
+<p align="center"><img src="media/hero-flow.jpg" width="100%" alt="AI short drama workflow in five steps: idea, character sheet, location sheet, 2×2 storyboard, finished shot. Frames from Quantum Eden, our AI short film. AI-generated."></p>
+
+<p align="center">Free · No film experience needed · For Seedance, Kling and similar video models · Asks before any paid generation</p>
 
 | Face keeps changing? | Place keeps shifting? | Story fizzles out? |
 |:---:|:---:|:---:|
@@ -14,7 +16,7 @@
 
 ## The 60-second story
 
-<p align="center"><img src="media/story-beats.png" width="70%" alt="60-second story in five beats: clue, situation, threat, twist, ending."></p>
+<p align="center"><img src="media/story-beats.png" width="70%" alt="60-second short drama story structure in five beats: clue (the hook), situation, threat, twist, ending."></p>
 <p align="center"><b>Five beats, one hook.</b> The starter gives you the beat map; sheet layouts and step-by-step prompts come with the full pack.</p>
 
 <p align="center"><sub>Frames above are from <i>Quantum Eden</i>, our AI short film. AI-generated.</sub></p>
@@ -32,6 +34,8 @@
 |---|---|---|
 | Claude Code | `.claude/skills/short-drama-starter` | your project's `.claude/skills/` (or `~/.claude/skills/` for every project) |
 | Codex | `.agents/skills/short-drama-starter` | your project's `.agents/skills/` (or `~/.agents/skills/`) |
+
+Using a terminal? `npx skills add ohmyopictures-cmyk/short-drama-starter` installs it for Claude Code, Codex and other agents.
 
 Start a new session after installing. On a Mac, press Cmd + Shift + . in Finder to see folders that start with a dot.
 
@@ -63,6 +67,8 @@ Start a new session after installing. On a Mac, press Cmd + Shift + . in Finder 
 
 <p align="center"><img src="media/dolly-in.gif" width="320" alt="Ohmyo, our AI host, in a dolly-in test shot that ends on a close-up. AI-generated."></p>
 <p align="center"><sub>Rule 4 on Ohmyo, our AI host. AI-generated.</sub></p>
+
+<p align="center">⭐ <b>Star this repo if it helped.</b> Stars are how other beginners find it.</p>
 
 ## License
 
